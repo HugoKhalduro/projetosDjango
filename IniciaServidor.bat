@@ -12,5 +12,5 @@ echo acessando o diretorio meublog
 cd meublog
 echo *************************************************
 echo iniciando servidor.
-net start python manage.py runserver
-
+python manage.py runserver
+pause

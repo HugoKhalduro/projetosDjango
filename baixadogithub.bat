@@ -1,1 +1,1 @@
-git pull
+git pull https://github.com/card11/my-first-blog
